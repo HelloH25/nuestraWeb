@@ -1,9 +1,9 @@
 import React from 'react';
 
 const Layouts = () => {
-  return <nav>
-      
-  </nav>;
+  return <div>
+    
+  </div>;
 };
 
 export default Layouts;
